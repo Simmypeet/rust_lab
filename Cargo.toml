@@ -1,0 +1,18 @@
+[workspace]
+
+members = [
+    "lab4_1_to_2",
+    "lab4_2",
+    "lab4_3",
+    "lab5_1_to_2",
+    "lab5_3",
+    "lab5_4",
+    "lab6_1_to_2",
+    "lab6_3",
+    "lab6_4",
+    "lab7_1_to_2",
+    "lab7_3",
+    "lab7_4",
+    "lab8_1_to_2",
+    "lab8_3",
+]
